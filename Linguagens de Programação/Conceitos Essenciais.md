@@ -176,7 +176,7 @@
       <article>
         <h3>Array</h3>
         <p>Array é uma estrutura de dados linear que armazena um conjunto de elementos do mesmo tipo de dados em posições consecutivas na memória. Os elementos podem ser acessados por meio de um índice inteiro.</p>
-        <img src="https://www.alura.com.br/artigos/assets/estruturas-de-dados-introducao/imagem2.png" alt="" width="400" height="300">
+        <img src="https://www.alura.com.br/artigos/assets/estruturas-de-dados-introducao/imagem2.png" alt="" width="500" height="300">
       </article>
       <article>
         <h3>Lista encadeada</h3>
