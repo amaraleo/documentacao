@@ -174,32 +174,32 @@
       <h2>Estruturas de Dados</h2>
       <p>Estruturas de dados são maneiras de organizar e armazenar dados de forma eficiente, para que possam ser acessados e manipulados de maneira rápida e eficaz. Há vários tipos de estruturas de dados, cada uma com suas próprias vantagens e desvantagens.</p>
       <article>
-        <h4>Array</h4>
+        <h3>Array</h3>
         <p>Array é uma estrutura de dados linear que armazena um conjunto de elementos do mesmo tipo de dados em posições consecutivas na memória. Os elementos podem ser acessados por meio de um índice inteiro.</p>
         <img src="https://www.freecodecamp.org/portuguese/news/content/images/2022/06/B4CncYOv-dN76B45UXdVrfat45MvgQ9b8atv.png" alt="" width="550" height="300">
       </article>
       <article>
-        <h4>Lista encadeada</h4>
+        <h3>Lista encadeada</h3>
         <p>Lista encadeada é uma estrutura de dados na qual cada elemento armazena o valor e um ponteiro para o próximo elemento da lista. As listas encadeadas são flexíveis em termos de tamanho e permitem inserções e remoções de elementos de forma eficiente.</p>
         <img src="https://gabrielbueno072.github.io/rea-aed/img/list/circular_seo.PNG" alt="" width="450" height="300">
       </article>
       <article>
-        <h4>Pilha</h4>
+        <h3>Pilha</h3>
         <p>Pilha é uma estrutura de dados em que os elementos são adicionados ou removidos somente no topo da pilha. A pilha segue uma ordem LIFO (Last In, First Out), em que o último elemento adicionado é o primeiro a ser removido.</p>
         <img src="https://www.arquivodecodigos.com.br/imagens_dicas/202205300957.jpg" alt="" width="400" height="300">
       </article>
       <article>
-        <h4>Fila</h4>
+        <h3>Fila</h3>
         <p>Fila é uma estrutura de dados em que os elementos são adicionados ao final da fila e removidos do início. A fila segue uma ordem FIFO (First In, First Out), em que o primeiro elemento adicionado é o primeiro a ser removido.</p>
         <img src="https://www.cos.ufrj.br/~rfarias/cos121/fila1.png" alt="" width="450" height="300">
       </article>
       <article>
-        <h4>Árvore</h4>
+        <h3>Árvore</h3>
         <p>Árvore é uma estrutura de dados hierárquica que consiste em um conjunto de nós conectados por meio de ponteiros. Cada nó contém um valor e pode ter zero ou mais filhos, dependendo do tipo de árvore.</p>
         <img src="https://blog.cod3r.com.br/wp-content/uploads/2020/11/ArvoreBinaria-1024x790.png" alt="" width="400" height="400">
       </article>
       <article>
-        <h4>Grafo</h4>
+        <h3>Grafo</h3>
         <p>Grafo é uma estrutura de dados que representa um conjunto de objetos conectados por meio de arestas. Os grafos podem ser direcionados ou não direcionados e podem ter pesos associados às suas arestas.</p>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Tree.example.png/300px-Tree.example.png" alt="" width="300" height="300">
       </article>
@@ -210,23 +210,23 @@
       <h2>Paradigmas de Programação</h2>
       <p>Paradigmas de Programação são formas de classificar as linguagens de programação baseando em suas caracteristícas e funcionalidades. As linguagens podem ser definidas e agrupadas em diferentes paradigmas e possuir mais de um paradigma.</p>
       <article>
-        <h4>Programação Imperativa</h4>
+        <h3>Programação Imperativa</h3>
         <p>A programação imperativa é baseada em comandos sequenciais que são executados em uma ordem específica, seguindo uma lista de instruções definidas pelo programador. É uma abordagem bastante comum e é usada em linguagens como C, Pascal e Fortran. Neste paradigma, o programador especifica como as ações devem ser executadas, isto é, é necessário descrever exatamente os passos que o programa deve seguir para atingir um resultado desejado.</p>
       </article>
       <article>
-        <h4>Programação Orientada a Objetos</h4>
+        <h3>Programação Orientada a Objetos</h3>
         <p>A programação orientada a objetos (POO) é uma abordagem baseada em objetos, que são instâncias de classes. Os objetos encapsulam dados e funções, e interagem entre si por meio de mensagens. A POO é amplamente utilizada em linguagens como Java, C# e Python, e é reconhecida por oferecer uma estrutura modular e escalável para a criação de programas e sistemas complexos.</p>
       </article>
       <article>
-        <h4>Programação Funcional</h4>
+        <h3>Programação Funcional</h3>
         <p>A programação funcional é uma abordagem em que o código se concentra na avaliação de funções matemáticas e na imutabilidade dos dados. Em vez de utilizar loops ou variáveis, as funções são aplicadas de forma recursiva ou a partir de outras funções, e o resultado é armazenado em novas variáveis. A programação funcional é utilizada em linguagens como Haskell, Lisp e Clojure e é reconhecida por ser uma abordagem concisa e elegante para a criação de programas.</p>
       </article>
       <article>
-        <h4>Programação Declarativa</h4>
+        <h3>Programação Declarativa</h3>
         <p>Na programação declarativa, o foco está na descrição do que deve ser feito, e não em como deve ser feito. Em outras palavras, o programador se concentra em definir as propriedades dos dados e a relação entre eles, e a linguagem se encarrega de decidir como realizar as operações. A programação declarativa é usada em linguagens como SQL e Prolog, e é reconhecida por ser uma abordagem eficiente para a manipulação de grandes volumes de dados.</p>
       </article>
       <article>
-        <h4>Programação Procedural</h4>
+        <h3>Programação Procedural</h3>
         <p>A programação procedural é uma abordagem baseada em procedimentos ou funções, que são chamados em uma sequência lógica para realizar tarefas específicas. Em outras palavras, a programação procedural é uma forma de programar que permite que o código seja organizado em módulos que podem ser chamados várias vezes durante a execução do programa. É utilizada em linguagens como C e Pascal e é uma abordagem bastante comum em projetos de programação de médio a grande porte.</p>
       </article>
     </article>
@@ -237,35 +237,35 @@
       <h2>Classes</h2>
       <p>Uma classe é um modelo de objeto que define um conjunto de atributos e métodos que descrevem o comportamento e as características de um objeto. Os atributos representam as propriedades ou características do objeto e os métodos são as ações que o objeto pode executar.</p>
       <article>
-        <h4>Objetos</h4>
+        <h3>Objetos</h3>
         <p>um objeto é uma instância de uma classe. Em outras palavras, um objeto é criado a partir de uma classe e possui os mesmos atributos e métodos definidos na classe.</p>
       </article>
       <article>
-        <h4>Programação Orientada a Objetos</h4>
+        <h3>Programação Orientada a Objetos</h3>
         <p>A programação orientada a objetos (POO) é uma abordagem baseada em objetos, que são instâncias de classes. Os objetos encapsulam dados e funções, e interagem entre si por meio de mensagens. A POO é amplamente utilizada em linguagens como Java, C# e Python, e é reconhecida por oferecer uma estrutura modular e escalável para a criação de programas e sistemas complexos.</p>
       </article>
       <article>
-        <h4>Atributos</h4>
+        <h3>Atributos</h3>
         <p>Atributos, em programação orientada a objetos, são as características ou propriedades que definem um objeto. Em outras palavras, um atributo é uma variável que é definida em uma classe e que armazena um valor específico para cada objeto criado a partir dessa classe.</p>
       </article>
       <article>
-        <h4>Métodos</h4>
+        <h3>Métodos</h3>
         <p>Métodos, em programação orientada a objetos, são as ações ou comportamentos que um objeto pode realizar. Em outras palavras, um método é uma função que é definida em uma classe e que pode ser chamada em um objeto criado a partir dessa classe para realizar uma ação específica.</p>
       </article>
       <article>
-        <h4>Construtores</h4>
+        <h3>Construtores</h3>
         <p>O construtor é um método especial em uma classe que é executado automaticamente quando um objeto é criado a partir dessa classe. O objetivo do construtor é inicializar os atributos do objeto com valores específicos ou realizar outras ações necessárias quando um objeto é criado.</p>
       </article>
       <article>
-        <h4>Encapsulamento</h4>
+        <h3>Encapsulamento</h3>
         <p>Encapsulamento é um conceito em programação orientada a objetos que se refere à proteção dos atributos e métodos de uma classe para que eles não possam ser acessados ou modificados de forma indevida por outras partes do programa. Em outras palavras, é a ideia de esconder a implementação interna da classe e fornecer apenas uma interface pública para interagir com ela.</p>
       </article>
       <article>
-        <h4>Herança</h4>
+        <h3>Herança</h3>
         <p>Herança é um conceito em programação orientada a objetos que permite que uma classe "herde" atributos e métodos de outra classe, conhecida como classe pai ou superclasse. A classe que herda esses atributos e métodos é chamada de classe filha ou subclasse.</p>
       </article>
       <article>
-        <h4>Polimorfismo</h4>
+        <h3>Polimorfismo</h3>
         <p>O construtor é um método especial em uma classe que é executado automaticamente quando um objeto é criado a partir dessa classe. O objetivo do construtor é inicializar os atributos do objeto com valores específicos ou realizar outras ações necessárias quando um objeto é criado.</p>
       </article>
     </article>
@@ -275,19 +275,19 @@
       <h2>Testes</h2>
       <p>Testes em programação são uma prática fundamental para garantir a qualidade e confiabilidade do software desenvolvido. Os testes são usados para verificar se o código funciona conforme o esperado, identificar erros e garantir que as alterações no código não causem regressões ou problemas inesperados.</p>
       <article>
-        <h4>Teste Unitário</h4>
+        <h3>Teste Unitário</h3>
         <p>Os testes unitários são usados para testar pequenas partes de código, como funções ou métodos individuais. Eles são escritos em conjunto com o código que estão testando e geralmente envolvem a criação de casos de teste para verificar se o resultado é o esperado.</p>
       </article>
       <article>
-        <h4>Teste de Integração</h4>
+        <h3>Teste de Integração</h3>
         <p>Os testes de integração são usados para testar a integração de diferentes partes do sistema. Eles geralmente envolvem a execução de testes em vários componentes em conjunto para garantir que eles funcionem juntos sem problemas.</p>
       </article>
       <article>
-        <h4>Teste Funcional</h4>
+        <h3>Teste Funcional</h3>
         <p>Os testes funcionais são usados para testar o comportamento do sistema em relação às suas especificações funcionais. Eles geralmente envolvem a criação de casos de teste que reproduzem cenários reais de uso do sistema.</p>
       </article>
       <article>
-        <h4>Teste de Aceitação</h4>
+        <h3>Teste de Aceitação</h3>
         <p>Os testes de aceitação são usados para testar se o sistema atende aos requisitos do usuário e se está pronto para ser entregue. Eles geralmente envolvem a execução de testes em um ambiente de produção simulado para garantir que o sistema esteja pronto para o uso.</p>
       </article>
     </article>
