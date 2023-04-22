@@ -178,7 +178,28 @@
   <section id="Paradigmas de Programação">
     <article>
       <h2>Paradigmas de Programação</h2>
-      <p></p>
+      <p>Paradigmas de Programação são formas de classificar as linguagens de programação baseando em suas caracteristícas e funcionalidades. As linguagens podem ser definidas e agrupadas em diferentes paradigmas e possuir mais de um paradigma.</p>
+
+      <article>
+        <h3>Programação Imperativa</h3>
+        <p>A programação imperativa é baseada em comandos sequenciais que são executados em uma ordem específica, seguindo uma lista de instruções definidas pelo programador. É uma abordagem bastante comum e é usada em linguagens como C, Pascal e Fortran. Neste paradigma, o programador especifica como as ações devem ser executadas, isto é, é necessário descrever exatamente os passos que o programa deve seguir para atingir um resultado desejado.</p>
+      </article>
+      <article>
+        <h3>Programação Orientada a Objetos</h3>
+        <p>A programação orientada a objetos (POO) é uma abordagem baseada em objetos, que são instâncias de classes. Os objetos encapsulam dados e funções, e interagem entre si por meio de mensagens. A POO é amplamente utilizada em linguagens como Java, C# e Python, e é reconhecida por oferecer uma estrutura modular e escalável para a criação de programas e sistemas complexos.</p>
+      </article>
+      <article>
+        <h3>Programação Funcional</h3>
+        <p>A programação funcional é uma abordagem em que o código se concentra na avaliação de funções matemáticas e na imutabilidade dos dados. Em vez de utilizar loops ou variáveis, as funções são aplicadas de forma recursiva ou a partir de outras funções, e o resultado é armazenado em novas variáveis. A programação funcional é utilizada em linguagens como Haskell, Lisp e Clojure e é reconhecida por ser uma abordagem concisa e elegante para a criação de programas.</p>
+      </article>
+      <article>
+        <h3>Programação Declarativa</h3>
+        <p>Na programação declarativa, o foco está na descrição do que deve ser feito, e não em como deve ser feito. Em outras palavras, o programador se concentra em definir as propriedades dos dados e a relação entre eles, e a linguagem se encarrega de decidir como realizar as operações. A programação declarativa é usada em linguagens como SQL e Prolog, e é reconhecida por ser uma abordagem eficiente para a manipulação de grandes volumes de dados.</p>
+      </article>
+      <article>
+        <h3>Programação Procedural</h3>
+        <p>A programação procedural é uma abordagem baseada em procedimentos ou funções, que são chamados em uma sequência lógica para realizar tarefas específicas. Em outras palavras, a programação procedural é uma forma de programar que permite que o código seja organizado em módulos que podem ser chamados várias vezes durante a execução do programa. É utilizada em linguagens como C e Pascal e é uma abordagem bastante comum em projetos de programação de médio a grande porte.</p>
+      </article>
     </article>
   </section>
 
