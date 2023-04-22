@@ -44,7 +44,9 @@
   <section id="O que são linguagens de programação?">
     <article>
       <h2>O que são linguagens de programação?</h2>
-      <p></p>
+      <p>Uma linguagem de programação é uma forma formal de comunicação entre humanos e computadores. Sustentada pela matemática, ela possui uma sintaxe e semântica específicas, que regem e definem o uso de palavras reservadas à linguagem, permitindo a criação de algoritmos para solucionar problemas computacionais.</p>
+      <p>Existem vários tipos de linguagens de programação, incluindo as linguagens de alto nível, que se aproximam da linguagem humana, como o Portugol, uma linguagem de programação focada no ensino, e as linguagens de baixo nível, que se aproximam da linguagem de máquina, como o Assembly.</p>
+      <p>A linguagem de máquina, por sua vez, é composta pelos dígitos binários 0 e 1. A combinação desses números forma bytes, que, quando definidos, formam as instruções internas do processador. Embora seja difícil para os seres humanos escreverem diretamente em linguagem de máquina, ela é usada pelos computadores para executar tarefas.</p>
     </article>
   </section>
   <section id="Algoritmo">
