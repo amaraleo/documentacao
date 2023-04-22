@@ -176,12 +176,12 @@
       <article>
         <h3>Array</h3>
         <p>Array é uma estrutura de dados linear que armazena um conjunto de elementos do mesmo tipo de dados em posições consecutivas na memória. Os elementos podem ser acessados por meio de um índice inteiro.</p>
-        <img src="https://www.alura.com.br/artigos/assets/estruturas-de-dados-introducao/imagem2.png" alt="" width="500" height="300">
+        <img src="https://www.alura.com.br/artigos/assets/estruturas-de-dados-introducao/imagem2.png" alt="" width="550" height="300">
       </article>
       <article>
         <h3>Lista encadeada</h3>
         <p>Lista encadeada é uma estrutura de dados na qual cada elemento armazena o valor e um ponteiro para o próximo elemento da lista. As listas encadeadas são flexíveis em termos de tamanho e permitem inserções e remoções de elementos de forma eficiente.</p>
-        <img src="https://gabrielbueno072.github.io/rea-aed/img/list/circular_seo.PNG" alt="" width="400" height="300">
+        <img src="https://gabrielbueno072.github.io/rea-aed/img/list/circular_seo.PNG" alt="" width="450" height="300">
       </article>
       <article>
         <h3>Pilha</h3>
@@ -191,12 +191,12 @@
       <article>
         <h3>Fila</h3>
         <p>Fila é uma estrutura de dados em que os elementos são adicionados ao final da fila e removidos do início. A fila segue uma ordem FIFO (First In, First Out), em que o primeiro elemento adicionado é o primeiro a ser removido.</p>
-        <img src="https://www.cos.ufrj.br/~rfarias/cos121/fila1.png" alt="" width="400" height="300">
+        <img src="https://www.cos.ufrj.br/~rfarias/cos121/fila1.png" alt="" width="450" height="300">
       </article>
       <article>
         <h3>Árvore</h3>
         <p>Árvore é uma estrutura de dados hierárquica que consiste em um conjunto de nós conectados por meio de ponteiros. Cada nó contém um valor e pode ter zero ou mais filhos, dependendo do tipo de árvore.</p>
-        <img src="https://blog.cod3r.com.br/wp-content/uploads/2020/11/ArvoreBinaria-1024x790.png" alt="" width="300" height="300">
+        <img src="https://blog.cod3r.com.br/wp-content/uploads/2020/11/ArvoreBinaria-1024x790.png" alt="" width="400" height="400">
       </article>
       <article>
         <h3>Grafo</h3>
