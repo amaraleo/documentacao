@@ -83,117 +83,117 @@
       <p></p>
     </article>
   </section>
-  <section id="">
+  <section id="Interpretador e Compilador">
     <article>
       <h2>Interpretador e Compilador</h2>
       <p></p>
     </article>
   </section>
-  <section id="">
+  <section id="Depurador">
     <article>
       <h2>Depurador</h2>
       <p></p>
     </article>
   </section>
-  <section id="">
+  <section id="Comentários">
     <article>
       <h2>Comentários</h2>
       <p></p>
     </article>
   </section>
-  <section id="">
+  <section id="Escopo">
     <article>
       <h2>Escopo</h2>
       <p></p>
     </article>
   </section>
-  <section id="">
+  <section id="Variáveis">
     <article>
       <h2>Variáveis</h2>
       <p></p>
     </article>
   </section>
-  <section id="">
+  <section id="Sistema de Tipos">
     <article>
       <h2>Sistema de Tipos</h2>
       <p></p>
     </article>
   </section>
-  <section id="">
+  <section id="Caracteres e Sequências de Escape">
     <article>
       <h2>Caracteres e Sequências de Escape</h2>
       <p></p>
     </article>
   </section>
-  <section id="">
+  <section id="Entrada e Saída de Dados">
     <article>
       <h2>Entrada e Saída de Dados</h2>
       <p></p>
     </article>
   </section>
-  <section id="">
+  <section id="Operadores">
     <article>
       <h2>Operadores</h2>
       <p></p>
     </article>
   </section>
-  <section id="">
+  <section id="Estruturas de Condição">
     <article>
       <h2>Estruturas de Condição</h2>
       <p></p>
     </article>
   </section>
-  <section id="">
+  <section id="Estruturas de Repetição">
     <article>
       <h2>Estruturas de Repetição</h2>
       <p></p>
     </article>
   </section>
-  <section id="">
+  <section id="Funções e Parâmetros">
     <article>
       <h2>Funções e Parâmetros</h2>
       <p></p>
     </article>
   </section>
-  <section id="">
+  <section id="Estruturas de Dados">
     <article>
       <h2>Estruturas de Dados</h2>
       <p></p>
     </article>
   </section>
-  <section id="">
+  <section id="Paradigmas de Programação">
     <article>
       <h2>Paradigmas de Programação</h2>
       <p></p>
     </article>
   </section>
 
-  <section id="">
+  <section id="Classes">
     <article>
       <h2>Classes</h2>
       <p></p>
     </article>
   </section>
 
-  <section id="">
+  <section id="Testes">
     <article>
       <h2>Testes</h2>
       <p></p>
     </article>
   </section>
-  <section id="">
+  <section id="Frameworks">
     <article>
       <h2>Frameworks</h2>
       <p></p>
     </article>
   </section>
-  <section id="">
+  <section id="Bibliotecas">
     <article>
       <h2>Bibliotecas</h2>
       <p></p>
     </article>
   </section>
-  <section id="">
+  <section id="Linguagens de Programação e Seus Usos">
     <article>
       <h2>Linguagens de Programação e Seus Usos</h2>
       <p></p>
