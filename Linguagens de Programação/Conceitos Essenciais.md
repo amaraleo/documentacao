@@ -41,135 +41,161 @@
 </header>
 
 <main>
-  <section>
+  <section id="O que são linguagens de programação?">
     <article>
       <h2>O que são linguagens de programação?</h2>
       <p></p>
     </article>
   </section>
-  <section>
+  <section id="Algoritmo">
     <article>
       <h2>Algoritmo</h2>
       <p></p>
     </article>
   </section>
-  <section>
+  <section id="Pseudocódigo">
     <article>
       <h2>Pseudocódigo</h2>
       <p></p>
     </article>
   </section>
-  <section>
+  <section id="Fluxograma">
     <article>
       <h2>Fluxograma</h2>
       <p></p>
     </article>
   </section>
-  <section>
+  <section id="Sintaxe e Semântica">
     <article>
       <h2>Sintaxe e Semântica</h2>
       <p></p>
     </article>
   </section>
-  <section>
+  <section id="Palavras Reservadas">
     <article>
       <h2>Palavras Reservadas</h2>
       <p></p>
     </article>
   </section>
-  <section>
+  <section id="Código-Fonte">
     <article>
       <h2>Código-Fonte</h2>
       <p></p>
     </article>
   </section>
-  <section>
+  <section id="">
     <article>
       <h2>Interpretador e Compilador</h2>
       <p></p>
     </article>
   </section>
-  <section>
+  <section id="">
     <article>
       <h2>Depurador</h2>
       <p></p>
     </article>
   </section>
-  <section>
+  <section id="">
     <article>
       <h2>Comentários</h2>
       <p></p>
     </article>
   </section>
-  <section>
+  <section id="">
     <article>
       <h2>Escopo</h2>
       <p></p>
     </article>
   </section>
-  <section>
+  <section id="">
     <article>
       <h2>Variáveis</h2>
       <p></p>
     </article>
   </section>
-  <section>
+  <section id="">
     <article>
       <h2>Sistema de Tipos</h2>
       <p></p>
     </article>
   </section>
-  <section>
+  <section id="">
     <article>
       <h2>Caracteres e Sequências de Escape</h2>
       <p></p>
     </article>
   </section>
-  <section>
+  <section id="">
     <article>
       <h2>Entrada e Saída de Dados</h2>
       <p></p>
     </article>
   </section>
-  <section>
+  <section id="">
     <article>
       <h2>Operadores</h2>
       <p></p>
     </article>
   </section>
-  <section>
+  <section id="">
     <article>
       <h2>Estruturas de Condição</h2>
       <p></p>
     </article>
   </section>
-  <section>
+  <section id="">
     <article>
       <h2>Estruturas de Repetição</h2>
       <p></p>
     </article>
   </section>
-  <section>
+  <section id="">
     <article>
       <h2>Funções e Parâmetros</h2>
       <p></p>
     </article>
   </section>
-  <section>
+  <section id="">
     <article>
       <h2>Estruturas de Dados</h2>
       <p></p>
     </article>
   </section>
-  <section>
+  <section id="">
     <article>
       <h2>Paradigmas de Programação</h2>
       <p></p>
     </article>
   </section>
-  <section>
+
+  <section id="">
     <article>
-      <h2></h2>
+      <h2>Classes</h2>
+      <p></p>
+    </article>
+  </section>
+
+  <section id="">
+    <article>
+      <h2>Testes</h2>
+      <p></p>
+    </article>
+  </section>
+  <section id="">
+    <article>
+      <h2>Frameworks</h2>
+      <p></p>
+    </article>
+  </section>
+  <section id="">
+    <article>
+      <h2>Bibliotecas</h2>
+      <p></p>
+    </article>
+  </section>
+  <section id="">
+    <article>
+      <h2>Linguagens de Programação e Seus Usos</h2>
       <p></p>
     </article>
   </section>
