@@ -172,7 +172,37 @@
   <section id="Estruturas de Dados">
     <article>
       <h2>Estruturas de Dados</h2>
-      <p></p>
+      <p>Estruturas de dados são maneiras de organizar e armazenar dados de forma eficiente, para que possam ser acessados e manipulados de maneira rápida e eficaz. Há vários tipos de estruturas de dados, cada uma com suas próprias vantagens e desvantagens.</p>
+      <article>
+        <h3>Array</h3>
+        <p>Array é uma estrutura de dados linear que armazena um conjunto de elementos do mesmo tipo de dados em posições consecutivas na memória. Os elementos podem ser acessados por meio de um índice inteiro.</p>
+        <img src="data:image/png;base64,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" alt="" width="300" height="300">
+      </article>
+      <article>
+        <h3>Lista encadeada</h3>
+        <p>Lista encadeada é uma estrutura de dados na qual cada elemento armazena o valor e um ponteiro para o próximo elemento da lista. As listas encadeadas são flexíveis em termos de tamanho e permitem inserções e remoções de elementos de forma eficiente.</p>
+        <img src="https://gabrielbueno072.github.io/rea-aed/img/list/circular_seo.PNG" alt="" width="300" height="300">
+      </article>
+      <article>
+        <h3>Pilha</h3>
+        <p>Pilha é uma estrutura de dados em que os elementos são adicionados ou removidos somente no topo da pilha. A pilha segue uma ordem LIFO (Last In, First Out), em que o último elemento adicionado é o primeiro a ser removido.</p>
+        <img src="https://www.arquivodecodigos.com.br/imagens_dicas/202205300957.jpg" alt="" width="300" height="300">
+      </article>
+      <article>
+        <h3>Fila</h3>
+        <p>Fila é uma estrutura de dados em que os elementos são adicionados ao final da fila e removidos do início. A fila segue uma ordem FIFO (First In, First Out), em que o primeiro elemento adicionado é o primeiro a ser removido.</p>
+        <img src="https://www.cos.ufrj.br/~rfarias/cos121/fila1.png" alt="" width="300" height="300">
+      </article>
+      <article>
+        <h3>Árvore</h3>
+        <p>Árvore é uma estrutura de dados hierárquica que consiste em um conjunto de nós conectados por meio de ponteiros. Cada nó contém um valor e pode ter zero ou mais filhos, dependendo do tipo de árvore.</p>
+        <img src="https://blog.cod3r.com.br/wp-content/uploads/2020/11/ArvoreBinaria-1024x790.png" alt="" width="300" height="300">
+      </article>
+      <article>
+        <h3>Grafo</h3>
+        <p>Grafo é uma estrutura de dados que representa um conjunto de objetos conectados por meio de arestas. Os grafos podem ser direcionados ou não direcionados e podem ter pesos associados às suas arestas.</p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Tree.example.png/300px-Tree.example.png" alt="" width="300" height="300">
+      </article>
     </article>
   </section>
   <section id="Paradigmas de Programação">
@@ -205,14 +235,61 @@
   <section id="Classes">
     <article>
       <h2>Classes</h2>
-      <p></p>
+      <p>Uma classe é um modelo de objeto que define um conjunto de atributos e métodos que descrevem o comportamento e as características de um objeto. Os atributos representam as propriedades ou características do objeto e os métodos são as ações que o objeto pode executar.</p>
+      <article>
+        <h3>Objetos</h3>
+        <p>um objeto é uma instância de uma classe. Em outras palavras, um objeto é criado a partir de uma classe e possui os mesmos atributos e métodos definidos na classe.</p>
+      </article>
+      <article>
+        <h3>Programação Orientada a Objetos</h3>
+        <p>A programação orientada a objetos (POO) é uma abordagem baseada em objetos, que são instâncias de classes. Os objetos encapsulam dados e funções, e interagem entre si por meio de mensagens. A POO é amplamente utilizada em linguagens como Java, C# e Python, e é reconhecida por oferecer uma estrutura modular e escalável para a criação de programas e sistemas complexos.</p>
+      </article>
+      <article>
+        <h3>Atributos</h3>
+        <p>Atributos, em programação orientada a objetos, são as características ou propriedades que definem um objeto. Em outras palavras, um atributo é uma variável que é definida em uma classe e que armazena um valor específico para cada objeto criado a partir dessa classe.</p>
+      </article>
+      <article>
+        <h3>Métodos</h3>
+        <p>Métodos, em programação orientada a objetos, são as ações ou comportamentos que um objeto pode realizar. Em outras palavras, um método é uma função que é definida em uma classe e que pode ser chamada em um objeto criado a partir dessa classe para realizar uma ação específica.</p>
+      </article>
+      <article>
+        <h3>Construtores</h3>
+        <p>O construtor é um método especial em uma classe que é executado automaticamente quando um objeto é criado a partir dessa classe. O objetivo do construtor é inicializar os atributos do objeto com valores específicos ou realizar outras ações necessárias quando um objeto é criado.</p>
+      </article>
+      <article>
+        <h3>Encapsulamento</h3>
+        <p>Encapsulamento é um conceito em programação orientada a objetos que se refere à proteção dos atributos e métodos de uma classe para que eles não possam ser acessados ou modificados de forma indevida por outras partes do programa. Em outras palavras, é a ideia de esconder a implementação interna da classe e fornecer apenas uma interface pública para interagir com ela.</p>
+      </article>
+      <article>
+        <h3>Herança</h3>
+        <p>Herança é um conceito em programação orientada a objetos que permite que uma classe "herde" atributos e métodos de outra classe, conhecida como classe pai ou superclasse. A classe que herda esses atributos e métodos é chamada de classe filha ou subclasse.</p>
+      </article>
+      <article>
+        <h3>Polimorfismo</h3>
+        <p>O construtor é um método especial em uma classe que é executado automaticamente quando um objeto é criado a partir dessa classe. O objetivo do construtor é inicializar os atributos do objeto com valores específicos ou realizar outras ações necessárias quando um objeto é criado.</p>
+      </article>
     </article>
   </section>
-
   <section id="Testes">
     <article>
       <h2>Testes</h2>
-      <p></p>
+      <p>Testes em programação são uma prática fundamental para garantir a qualidade e confiabilidade do software desenvolvido. Os testes são usados para verificar se o código funciona conforme o esperado, identificar erros e garantir que as alterações no código não causem regressões ou problemas inesperados.</p>
+      <article>
+        <h3>Teste Unitário</h3>
+        <p>Os testes unitários são usados para testar pequenas partes de código, como funções ou métodos individuais. Eles são escritos em conjunto com o código que estão testando e geralmente envolvem a criação de casos de teste para verificar se o resultado é o esperado.</p>
+      </article>
+      <article>
+        <h3>Teste de Integração</h3>
+        <p>Os testes de integração são usados para testar a integração de diferentes partes do sistema. Eles geralmente envolvem a execução de testes em vários componentes em conjunto para garantir que eles funcionem juntos sem problemas.</p>
+      </article>
+      <article>
+        <h3>Teste Funcional</h3>
+        <p>Os testes funcionais são usados para testar o comportamento do sistema em relação às suas especificações funcionais. Eles geralmente envolvem a criação de casos de teste que reproduzem cenários reais de uso do sistema.</p>
+      </article>
+      <article>
+        <h3>Teste de Aceitação</h3>
+        <p>Os testes de aceitação são usados para testar se o sistema atende aos requisitos do usuário e se está pronto para ser entregue. Eles geralmente envolvem a execução de testes em um ambiente de produção simulado para garantir que o sistema esteja pronto para o uso.</p>
+      </article>
     </article>
   </section>
   <section id="Frameworks">
