@@ -67,7 +67,7 @@
     <article>
       <h2>Fluxograma</h2>
       <p>O fluxograma é uma ferramenta gráfica que é utilizada para representar um processo ou um conjunto de ações de forma visual e clara. Ele é composto por símbolos padronizados que representam as etapas do processo e setas que mostram a sequência em que essas etapas devem ser executadas.</p>
-      <img src="https://resultadosdigitais.com.br/wp-content/blogs.dir/8/files/2022/08/Fluxograma-de-processos-linear.png" alt="" width="450" height="450">
+      <img src="https://resultadosdigitais.com.br/wp-content/blogs.dir/8/files/2022/08/Fluxograma-de-processos-linear.png" alt="" width="300" height="300">
     </article>
   </section>
   <section id="Sintaxe e Semântica">
