@@ -181,17 +181,17 @@
       <article>
         <h3>Lista encadeada</h3>
         <p>Lista encadeada é uma estrutura de dados na qual cada elemento armazena o valor e um ponteiro para o próximo elemento da lista. As listas encadeadas são flexíveis em termos de tamanho e permitem inserções e remoções de elementos de forma eficiente.</p>
-        <img src="https://gabrielbueno072.github.io/rea-aed/img/list/circular_seo.PNG" alt="" width="300" height="300">
+        <img src="https://gabrielbueno072.github.io/rea-aed/img/list/circular_seo.PNG" alt="" width="400" height="300">
       </article>
       <article>
         <h3>Pilha</h3>
         <p>Pilha é uma estrutura de dados em que os elementos são adicionados ou removidos somente no topo da pilha. A pilha segue uma ordem LIFO (Last In, First Out), em que o último elemento adicionado é o primeiro a ser removido.</p>
-        <img src="https://www.arquivodecodigos.com.br/imagens_dicas/202205300957.jpg" alt="" width="300" height="300">
+        <img src="https://www.arquivodecodigos.com.br/imagens_dicas/202205300957.jpg" alt="" width="400" height="300">
       </article>
       <article>
         <h3>Fila</h3>
         <p>Fila é uma estrutura de dados em que os elementos são adicionados ao final da fila e removidos do início. A fila segue uma ordem FIFO (First In, First Out), em que o primeiro elemento adicionado é o primeiro a ser removido.</p>
-        <img src="https://www.cos.ufrj.br/~rfarias/cos121/fila1.png" alt="" width="300" height="300">
+        <img src="https://www.cos.ufrj.br/~rfarias/cos121/fila1.png" alt="" width="300" height="400">
       </article>
       <article>
         <h3>Árvore</h3>
