@@ -179,7 +179,6 @@
     <article>
       <h2>Paradigmas de Programação</h2>
       <p>Paradigmas de Programação são formas de classificar as linguagens de programação baseando em suas caracteristícas e funcionalidades. As linguagens podem ser definidas e agrupadas em diferentes paradigmas e possuir mais de um paradigma.</p>
-
       <article>
         <h3>Programação Imperativa</h3>
         <p>A programação imperativa é baseada em comandos sequenciais que são executados em uma ordem específica, seguindo uma lista de instruções definidas pelo programador. É uma abordagem bastante comum e é usada em linguagens como C, Pascal e Fortran. Neste paradigma, o programador especifica como as ações devem ser executadas, isto é, é necessário descrever exatamente os passos que o programa deve seguir para atingir um resultado desejado.</p>
