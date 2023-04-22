@@ -55,24 +55,6 @@
   </section>
   <section>
     <article>
-      <h2>Palavras Reservadas</h2>
-      <p></p>
-    </article>
-  </section>
-  <section>
-    <article>
-      <h2>Sintaxe e Semântica</h2>
-      <p></p>
-    </article>
-  </section>
-  <section>
-    <article>
-      <h2>Código-Fonte</h2>
-      <p></p>
-    </article>
-  </section>
-  <section>
-    <article>
       <h2>Pseudocódigo</h2>
       <p></p>
     </article>
@@ -85,7 +67,25 @@
   </section>
   <section>
     <article>
-      <h2>Paradigmas de Programação</h2>
+      <h2>Sintaxe e Semântica</h2>
+      <p></p>
+    </article>
+  </section>
+  <section>
+    <article>
+      <h2>Palavras Reservadas</h2>
+      <p></p>
+    </article>
+  </section>
+  <section>
+    <article>
+      <h2>Código-Fonte</h2>
+      <p></p>
+    </article>
+  </section>
+  <section>
+    <article>
+      <h2>Interpretador e Compilador</h2>
       <p></p>
     </article>
   </section>
@@ -97,73 +97,73 @@
   </section>
   <section>
     <article>
-      <h2></h2>
+      <h2>Comentários</h2>
       <p></p>
     </article>
   </section>
   <section>
     <article>
-      <h2></h2>
+      <h2>Escopo</h2>
       <p></p>
     </article>
   </section>
   <section>
     <article>
-      <h2></h2>
+      <h2>Variáveis</h2>
       <p></p>
     </article>
   </section>
   <section>
     <article>
-      <h2></h2>
+      <h2>Sistema de Tipos</h2>
       <p></p>
     </article>
   </section>
   <section>
     <article>
-      <h2></h2>
+      <h2>Caracteres e Sequências de Escape</h2>
       <p></p>
     </article>
   </section>
   <section>
     <article>
-      <h2></h2>
+      <h2>Entrada e Saída de Dados</h2>
       <p></p>
     </article>
   </section>
   <section>
     <article>
-      <h2></h2>
+      <h2>Operadores</h2>
       <p></p>
     </article>
   </section>
   <section>
     <article>
-      <h2></h2>
+      <h2>Estruturas de Condição</h2>
       <p></p>
     </article>
   </section>
   <section>
     <article>
-      <h2></h2>
+      <h2>Estruturas de Repetição</h2>
       <p></p>
     </article>
   </section>
   <section>
     <article>
-      <h2></h2>
+      <h2>Funções e Parâmetros</h2>
       <p></p>
     </article>
   </section>
   <section>
     <article>
-      <h2></h2>
+      <h2>Estruturas de Dados</h2>
       <p></p>
     </article>
   </section>
   <section>
     <article>
-      <h2></h2>
+      <h2>Paradigmas de Programação</h2>
       <p></p>
     </article>
   </section>
