@@ -176,7 +176,7 @@
       <article>
         <h3>Array</h3>
         <p>Array é uma estrutura de dados linear que armazena um conjunto de elementos do mesmo tipo de dados em posições consecutivas na memória. Os elementos podem ser acessados por meio de um índice inteiro.</p>
-        <img src="https://www.alura.com.br/artigos/assets/estruturas-de-dados-introducao/imagem2.png" alt="" width="300" height="300">
+        <img src="https://www.alura.com.br/artigos/assets/estruturas-de-dados-introducao/imagem2.png" alt="" width="400" height="300">
       </article>
       <article>
         <h3>Lista encadeada</h3>
@@ -191,7 +191,7 @@
       <article>
         <h3>Fila</h3>
         <p>Fila é uma estrutura de dados em que os elementos são adicionados ao final da fila e removidos do início. A fila segue uma ordem FIFO (First In, First Out), em que o primeiro elemento adicionado é o primeiro a ser removido.</p>
-        <img src="https://www.cos.ufrj.br/~rfarias/cos121/fila1.png" alt="" width="300" height="400">
+        <img src="https://www.cos.ufrj.br/~rfarias/cos121/fila1.png" alt="" width="400" height="300">
       </article>
       <article>
         <h3>Árvore</h3>
