@@ -151,55 +151,63 @@
       <article>
         <h3>Operadores Aritméticos</h3>
         <p>Operadores aritméticos são usados para realizar operações matemáticas básicas, como adição, subtração, multiplicação e divisão. Além desses, também há operadores de módulo, que retornam o resto de uma divisão, e operadores de incremento e decremento, que adicionam ou subtraem 1 de um valor.</p>
-        Adição: +
-        Subtração: -
-        Multiplicação: *
-        Exponenciação: **
-        Divisão: /
-        Resto: %
-        Incremento: ++
-        Decremento: --
+        <ul>
+          <li>Adição: +</li>
+          <li>Subtração: -</li>
+          <li>Multiplicação: *</li>
+          <li>Exponenciação: **</li>
+          <li>Divisão: /</li>
+          <li>Resto: %</li>
+          <li>Incremento: ++</li>
+          <li>Decremento: --</li>
+        </ul>
       </article>
       <article>
         <h3>Operadores Lógicos</h3>
         <p>Operadores lógicos são usados para combinar valores booleanos e produzir um resultado booleano. Os operadores lógicos mais comuns são o "E" lógico (&&), o "OU" lógico (||) e o "NÃO" lógico (!).</p>
-        Negação: !
-        Conjunção: &&
-        Disjunção: ||
-        Coalescência: ??
-        Negação em binário: ~
-        Conjunção em binário: &
-        Disjunção em binário: |
-        Disjunção exclusiva em binário: ^
-        Deslocamento direito em binário: >>
-        Deslocamento esquerdo em binário: <<
+        <ul>
+          <li>Negação: !</li>
+          <li>Conjunção: &&</li>
+          <li>Disjunção: ||</li>
+          <li>Coalescência: ??</li>
+          <li>Negação em binário: ~</li>
+          <li>Conjunção em binário: &</li>
+          <li>Disjunção em binário: |</li>
+          <li>Disjunção exclusiva em binário: ^</li>
+          <li>Deslocamento direito em binário: >></li>
+          <li>Deslocamento esquerdo em binário: <<</li>
+        </ul>
       </article>
       <article>
         <h3>Operadores de Atribuição</h3>
         <p>Operadores de atribuição são usados para atribuir um valor a uma variável. O operador de atribuição mais comum é o sinal de igual (=), mas também existem operadores de atribuição combinados, como "+=", que adiciona um valor a uma variável existente.</p>
-        Atribuição: =
-        Atribuição com adição: +=
-        Atribuição com subtração: -=
-        Atribuição com multiplicação: *=
-        Atribuição com divisão: /=
-        Atribuição com resto: %=
-        Atribuição conjuntiva em binário: &=
-        Atribuição disjuntiva em binário: |=
-        Atribuição disjuntiva exclusiva em binário: ^=
-        Atribuição com deslocamento direito em binário: >>=
-        Atribuição com deslocamento esquerdo em binário: <<=
+        <ul>
+          <li>Atribuição: =</li>
+          <li>Atribuição com adição: +=</li>
+          <li>Atribuição com subtração: -=</li>
+          <li>Atribuição com multiplicação: *=</li>
+          <li>Atribuição com divisão: /=</li>
+          <li>Atribuição com resto: %=</li>
+          <li>Atribuição conjuntiva em binário: &=</li>
+          <li>Atribuição disjuntiva em binário: |=</li>
+          <li>Atribuição disjuntiva exclusiva em binário: ^=</li>
+          <li>Atribuição com deslocamento direito em binário: >>=</li>
+          <li>Atribuição com deslocamento esquerdo em binário: <<=</li>
+        </ul>
       </article>
       <article>
         <h3>Operadores Relacionais</h3>
         <p>Operadores relacionais são usados para comparar dois valores e retornar um resultado booleano (verdadeiro ou falso), indicando se a comparação é verdadeira ou não. Exemplos de operadores de comparação incluem igualdade, desigualdade, maior que, menor que, maior ou igual a, e menor ou igual a.</p>
-        Igual: ==
-        Igual ao valor e ao tipo: ===
-        Diferente: !=
-        Diferente do valor e do tipo: !==
-        Maior que: >
-        Menor que: <
-        Maior ou igual >=
-        Menor ou igual: <=
+        <ul>
+          <li>Igual: ==</li>
+          <li>Igual ao valor e ao tipo: ===</li>
+          <li>Diferente: !=</li>
+          <li>Diferente do valor e do tipo: !==</li>
+          <li>Maior que: ></li>
+          <li>Menor que: <</li>
+          <li>Maior ou igual: >=</li>
+          <li>Menor ou igual: <=</li>
+        </ul>
       </article>
       <article>
         <h3>Operadores Ternários</h3>
