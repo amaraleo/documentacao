@@ -117,38 +117,47 @@
       <article>
         <h3>Visual Studio</h3>
         <p>Visual Studio é um ambiente de desenvolvimento integrado (IDE) utilizado principalmente para desenvolvimento de aplicativos Windows, aplicativos da Web e aplicativos móveis. Suporta várias linguagens de programação, incluindo C#, C++, F#, Python, entre outras.</p>
+        <a href="https://visualstudio.microsoft.com/pt-br/downloads/">Site do Visual Studio</a>
       </article>
       <article>
         <h3>Eclipse</h3>
         <p>Eclipse é uma IDE de código aberto usado para desenvolvimento de software em várias linguagens, incluindo Java, C++, PHP, Python, entre outras. É amplamente utilizado para desenvolvimento de aplicativos móveis e para desenvolvimento de aplicativos da Web.</p>
+        <a href="https://www.eclipse.org/downloads/">Site do Eclipse</a>
       </article>
       <article>
         <h3>NetBeans</h3>
         <p>NetBeans é uma IDE de código aberto usado principalmente para desenvolvimento em Java. Ele inclui ferramentas para desenvolvimento de aplicativos da Web, aplicativos desktop e aplicativos móveis.</p>
+        <a href="https://netbeans.apache.org/download/nb17/">Site do NetBeans</a>
       </article>
       <article>
         <h3>XCode</h3>
         <p>XCode é uma IDE usado para desenvolvimento de aplicativos iOS e macOS. Ele suporta várias linguagens de programação, incluindo Objective-C, Swift e C++.</p>
+        <a href="https://developer.apple.com/xcode/resources/">Site do XCode</a>
       </article>
       <article>
         <h3>Android Studio</h3>
         <p>Android Studio é uma IDE usado para desenvolvimento de aplicativos Android. Ele suporta várias linguagens de programação, incluindo Java e Kotlin.</p>
+        <a href="https://developer.android.com/studio">Site do Android Studio</a>
       </article>
       <article>
         <h3>PyCharm</h3>
         <p>PyCharm é uma IDE usado para desenvolvimento em Python. Ele suporta vários frameworks de desenvolvimento em Python, incluindo Django e Flask.</p>
+        <a href="https://www.jetbrains.com/pt-br/pycharm/download/#section=windows">Site do PyCharm</a>
       </article>
       <article>
         <h3>Visual Studio Code</h3>
         <p>Visual Studio Code é um editor de código de código aberto que suporta várias linguagens de programação. É usado principalmente para desenvolvimento da Web, mas também pode ser usado para desenvolvimento de aplicativos desktop e aplicativos móveis.</p>
+        <a href="https://code.visualstudio.com/download">Site do Visual Studio Code</a>
       </article>
       <article>
         <h3>IntelliJ IDEA</h3>
         <p>IntelliJ IDEA é uma IDE usado principalmente para desenvolvimento em Java, mas também suporta várias outras linguagens de programação, incluindo Kotlin, Python, entre outras. Ele inclui ferramentas para desenvolvimento de aplicativos da Web, aplicativos desktop e aplicativos móveis.</p>
+        <a href="https://www.jetbrains.com/idea/download/#section=windows">Site do IntelliJ IDEA</a>
       </article>
       <article>
         <h3>Sublime Text</h3>
         <p>Sublime Text é um editor de texto que suporta várias linguagens de programação. É usado principalmente para desenvolvimento da Web, mas também pode ser usado para desenvolvimento de aplicativos desktop e aplicativos móveis.</p>
+        <a href="https://www.sublimetext.com/">Site do Sublime Text</a>
       </article>
     </article>
   </section>
