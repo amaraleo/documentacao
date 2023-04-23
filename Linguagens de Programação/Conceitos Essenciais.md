@@ -157,7 +157,6 @@
       <article>
         <h3>Estruturas de Condição</h3>
         <p></p>
-
         <article>
           <h4>Operador Ternário</h4>
           <p>O operador ternário é uma estrutura de condição compacta utilizada em muitas linguagens de programação. Ele é frequentemente utilizado para simplificar expressões condicionais que envolvem apenas uma única instrução "if-else".</p>
