@@ -60,9 +60,14 @@
     <article>
       <h2>Sistema de Tipos</h2>
       <ul>
-        <li>estácio: no sistema estático a verificação de tipos ocorre no tempo de compilação, antes da execução do código</li>
-        <li>forte: na tipagem forte, não é possível realizar a conversão de um tipo em outro, impossibilitando que uma variável já declarada receba um valor de tipo diferente</li>
+        <li>estático: no sistema estático a verificação de tipos ocorre no tempo de compilação, antes da execução do código</li>
       </ul>
+      <article>
+        <h3>Tipagem</h3>
+        <ul>
+          <li>forte: na tipagem forte, não é possível realizar a conversão de um tipo em outro, impossibilitando que uma variável já declarada receba um valor de tipo diferente</li>
+        </ul>
+      </article>
       <article>
         <h3>Tipos de Dados</h3>
         <ul>
