@@ -147,7 +147,64 @@
   <section id="Operadores">
     <article>
       <h2>Operadores</h2>
-      <p></p>
+      <p>Os operadores são símbolos ou palavras que representam uma operação a ser realizada em um ou mais valores, produzindo um resultado. Na programação, os operadores são amplamente utilizados em expressões, que são combinações de valores, operadores e outros elementos que produzem um resultado.</p>
+      <article>
+        <h3>Operadores Aritméticos</h3>
+        <p>Operadores aritméticos são usados para realizar operações matemáticas básicas, como adição, subtração, multiplicação e divisão. Além desses, também há operadores de módulo, que retornam o resto de uma divisão, e operadores de incremento e decremento, que adicionam ou subtraem 1 de um valor.</p>
+        Adição: +
+        Subtração: -
+        Multiplicação: *
+        Exponenciação: **
+        Divisão: /
+        Resto: %
+        Incremento: ++
+        Decremento: --
+      </article>
+      <article>
+        <h3>Operadores Lógicos</h3>
+        <p>Operadores lógicos são usados para combinar valores booleanos e produzir um resultado booleano. Os operadores lógicos mais comuns são o "E" lógico (&&), o "OU" lógico (||) e o "NÃO" lógico (!).</p>
+        Negação: !
+        Conjunção: &&
+        Disjunção: ||
+        Coalescência: ??
+        Negação em binário: ~
+        Conjunção em binário: &
+        Disjunção em binário: |
+        Disjunção exclusiva em binário: ^
+        Deslocamento direito em binário: >>
+        Deslocamento esquerdo em binário: <<
+      </article>
+      <article>
+        <h3>Operadores de Atribuição</h3>
+        <p>Operadores de atribuição são usados para atribuir um valor a uma variável. O operador de atribuição mais comum é o sinal de igual (=), mas também existem operadores de atribuição combinados, como "+=", que adiciona um valor a uma variável existente.</p>
+        Atribuição: =
+        Atribuição com adição: +=
+        Atribuição com subtração: -=
+        Atribuição com multiplicação: *=
+        Atribuição com divisão: /=
+        Atribuição com resto: %=
+        Atribuição conjuntiva em binário: &=
+        Atribuição disjuntiva em binário: |=
+        Atribuição disjuntiva exclusiva em binário: ^=
+        Atribuição com deslocamento direito em binário: >>=
+        Atribuição com deslocamento esquerdo em binário: <<=
+      </article>
+      <article>
+        <h3>Operadores Relacionais</h3>
+        <p>Operadores relacionais são usados para comparar dois valores e retornar um resultado booleano (verdadeiro ou falso), indicando se a comparação é verdadeira ou não. Exemplos de operadores de comparação incluem igualdade, desigualdade, maior que, menor que, maior ou igual a, e menor ou igual a.</p>
+        Igual: ==
+        Igual ao valor e ao tipo: ===
+        Diferente: !=
+        Diferente do valor e do tipo: !==
+        Maior que: >
+        Menor que: <
+        Maior ou igual >=
+        Menor ou igual: <=
+      </article>
+      <article>
+        <h3>Operadores Ternários</h3>
+        <p>Operadores ternários são usados para avaliar uma condição e retornar um valor com base no resultado da avaliação. O operador ternário mais comum é "?", que permite que uma expressão retorne um valor se a condição for verdadeira e outro valor se a condição for falsa.</p>
+      </article>
     </article>
   </section>
   <section id="Estruturas de Controle">
@@ -156,7 +213,7 @@
       <p>Estruturas de Controle são um conjunto de comandos ou instruções disponíveis em linguagens de programação que permitem que o programador controle o fluxo de execução do programa.</p>
       <article>
         <h3>Estruturas de Condição</h3>
-        <p></p>
+        <p>Estruturas condicionais permitem controlar o fluxo de execução do programa e executar diferentes blocos de código com base em condições avaliadas durante a execução. A estrutura "if" é a forma mais básica de uma estrutura condicional e permite a execução de um bloco de código se uma condição for verdadeira. As estruturas "else" e "else if" também podem ser usadas para executar diferentes blocos de código dependendo de várias condições.</p>
         <article>
           <h4>Operador Ternário</h4>
           <p>O operador ternário é uma estrutura de condição compacta utilizada em muitas linguagens de programação. Ele é frequentemente utilizado para simplificar expressões condicionais que envolvem apenas uma única instrução "if-else".</p>
@@ -166,7 +223,8 @@
       </article>
       <article>
         <h3>Estruturas de Seleção</h3>
-        <p></p>
+        <p>A estrutura de seleção é uma ferramenta fundamental na programação, que permite ao programador controlar o fluxo de execução do programa com base em diferentes opções de decisão. Isso significa que, com a estrutura de seleção, é possível executar diferentes trechos de código dependendo do valor de uma variável ou expressão, o que torna o programa mais flexível e dinâmico.</p>
+        <p>A estrutura "switch" é um exemplo de estrutura de seleção, que é amplamente utilizada em várias linguagens de programação. Essa estrutura permite avaliar o valor de uma variável e executar diferentes blocos de código com base em cada opção possível. O uso da estrutura "switch" é particularmente útil quando há várias opções possíveis de decisão, tornando o código mais legível e organizado.</p>
       </article>
       <article>
         <h3>Estruturas de Repetição</h3>
