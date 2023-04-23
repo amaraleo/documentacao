@@ -441,13 +441,13 @@
   <section id="Frameworks">
     <article>
       <h2>Frameworks</h2>
-      <p></p>
+      <p>Um framework é uma estrutura abstrata que fornece uma arquitetura básica para construir aplicativos de software. Ele geralmente inclui um conjunto de regras, convenções e padrões de design, bem como uma série de bibliotecas e ferramentas de software que ajudam os desenvolvedores a construir aplicativos de maneira mais rápida e eficiente. Um framework pode ser específico para uma linguagem de programação ou ser multiplataforma, e é usado para ajudar os desenvolvedores a lidar com problemas comuns de desenvolvimento de software, como segurança, desempenho e escalabilidade. Exemplos de frameworks incluem Laravel para PHP, Bootstrap para CSS, o Flask e o Django para Python. Em resumo, um framework de software fornece uma estrutura básica que os desenvolvedores podem usar para construir aplicativos de software de maneira mais rápida, eficiente e consistente.</p>
     </article>
   </section>
   <section id="Bibliotecas">
     <article>
       <h2>Bibliotecas</h2>
-      <p></p>
+      <p>Uma biblioteca é um conjunto de implementações de código que fornece funções, procedimentos, classes ou métodos para serem usados por outros programas de computador. As bibliotecas de software geralmente são compostas de código objeto ou código de byte que é executado em tempo de execução pelo programa que as usa. Elas podem ser escritas em várias linguagens de programação, incluindo C, C++, Java e outras. As bibliotecas de software podem ser estáticas ou dinâmicas e geralmente são distribuídas como arquivos de biblioteca ou pacotes de software. As bibliotecas são frequentemente usadas para fornecer funcionalidades comuns que podem ser usadas em vários programas, o que pode economizar tempo e esforço para os desenvolvedores de software.</p>
     </article>
   </section>
   <section id="Linguagens de Programação e Seus Usos">
