@@ -19,8 +19,8 @@
       <li><a href="#Caracteres de Escape">Caracteres de Escape</a></li>
       <li><a href="#Operadores">Operadores</a></li>
       <li><a href="#Estruturas de Controle">Estruturas de Controle</a></li>
-      <li><a href="#Funções">Funções</a></li>
       <li><a href="#Estruturas de Dados">Estruturas de Dados</a></li>
+      <li><a href="#Funções">Funções</a></li>
       <li><a href="#Paradigmas de Programação">Paradigmas de Programação</a></li>
       <li><a href="#Classes">Classes</a></li>
       <li><a href="#Objetos">Objetos</a></li>
@@ -308,13 +308,6 @@
       </article>
     </article>
   </section>
-  <section id="Funções">
-    <article>
-      <h2>Funções</h2>
-      <p>Uma função é um bloco de código nomeado que realiza uma tarefa específica quando chamado. As funções ajudam a organizar e modularizar o código, tornando-o mais fácil de ler, entender e reutilizar.</p>
-      <p>As funções geralmente aceitam um ou mais parâmetros como entrada, realizam uma série de instruções ou operações com esses parâmetros e retornam um resultado. O resultado retornado pode ser utilizado em outras partes do programa ou simplesmente impresso na tela.</p>
-    </article>
-  </section>
   <section id="Estruturas de Dados">
     <article>
       <h2>Estruturas de Dados</h2>
@@ -349,6 +342,13 @@
         <p>Grafo é uma estrutura de dados que representa um conjunto de objetos conectados por meio de arestas. Os grafos podem ser direcionados ou não direcionados e podem ter pesos associados às suas arestas.</p>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Tree.example.png/300px-Tree.example.png" alt="" width="300" height="300">
       </article>
+    </article>
+  </section>
+  <section id="Funções">
+    <article>
+      <h2>Funções</h2>
+      <p>Uma função é um bloco de código nomeado que realiza uma tarefa específica quando chamado. As funções ajudam a organizar e modularizar o código, tornando-o mais fácil de ler, entender e reutilizar.</p>
+      <p>As funções geralmente aceitam um ou mais parâmetros como entrada, realizam uma série de instruções ou operações com esses parâmetros e retornam um resultado. O resultado retornado pode ser utilizado em outras partes do programa ou simplesmente impresso na tela.</p>
     </article>
   </section>
   <section id="Paradigmas de Programação">
