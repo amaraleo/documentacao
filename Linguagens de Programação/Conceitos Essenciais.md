@@ -385,7 +385,14 @@
   <section id="Linguagens de Programação e Seus Usos">
     <article>
       <h2>Linguagens de Programação e Seus Usos</h2>
-      <p></p>
+      <article>
+        <h3>C</h3>
+        <p>C é uma linguagem de programação de baixo nível, muito utilizada em sistemas operacionais, dispositivos embarcados e desenvolvimento de jogos. É uma linguagem muito eficiente e rápida, mas com um alto nível de complexidade.</p>
+      </article>
+      <article>
+        <h3>C++</h3>
+        <p>C++ é uma linguagem de programação orientada a objetos, utilizada em aplicações de alto desempenho, como jogos, aplicativos gráficos e sistemas operacionais. Também é muito utilizada em áreas como engenharia e ciências.</p>
+      </article>
       <article>
         <h3>Python</h3>
         <p>Python é uma linguagem de programação de uso geral, usada para desenvolvimento web, científico, de inteligência artificial, análise de dados, automação de tarefas, entre outros. É uma das linguagens de programação mais populares e de fácil aprendizado.</p>
@@ -399,12 +406,12 @@
         <p>JavaScript é uma linguagem de programação voltada para web, usada principalmente para desenvolvimento de front-end de sites e aplicativos web interativos. Também é usada para desenvolvimento de back-end e aplicativos móveis.</p>
       </article>
       <article>
-        <h3>C</h3>
-        <p>C é uma linguagem de programação de baixo nível, muito utilizada em sistemas operacionais, dispositivos embarcados e desenvolvimento de jogos. É uma linguagem muito eficiente e rápida, mas com um alto nível de complexidade.</p>
+        <h3>PHP</h3>
+        <p>PHP é uma linguagem de programação usada principalmente para desenvolvimento web, especialmente para desenvolvimento de sites e aplicativos dinâmicos.</p>
       </article>
       <article>
-        <h3>C++</h3>
-        <p>C++ é uma linguagem de programação orientada a objetos, utilizada em aplicações de alto desempenho, como jogos, aplicativos gráficos e sistemas operacionais. Também é muito utilizada em áreas como engenharia e ciências.</p>
+        <h3>Ruby</h3>
+        <p>Ruby é uma linguagem de programação de uso geral, usada principalmente para desenvolvimento web e para desenvolvimento de aplicações com o framework Ruby on Rails.</p>
       </article>
       <article>
         <h3>C#</h3>
@@ -413,14 +420,6 @@
       <article>
         <h3>Kotlin</h3>
         <p>Kotlin é uma linguagem de programação utilizada para desenvolvimento de aplicativos Android, bem como em aplicações empresariais. É uma linguagem de programação moderna e produtiva, com sintaxe muito clara e concisa.</p>
-      </article>
-      <article>
-        <h3>PHP</h3>
-        <p>PHP é uma linguagem de programação usada principalmente para desenvolvimento web, especialmente para desenvolvimento de sites e aplicativos dinâmicos.</p>
-      </article>
-      <article>
-        <h3>Ruby</h3>
-        <p>Ruby é uma linguagem de programação de uso geral, usada principalmente para desenvolvimento web e para desenvolvimento de aplicações com o framework Ruby on Rails.</p>
       </article>
       <article>
         <h3>Swift</h3>
