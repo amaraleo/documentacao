@@ -495,4 +495,9 @@
       </article>
     </article>
   </section>
+  <br>
+  <section>
+    <p>Este material foi recriado tendo auxílio do ChatGPT da OpenAI.</p>
+    <p>Última modificação: 23/04/2023</p>
+  </section>
 </main>
