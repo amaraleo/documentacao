@@ -69,8 +69,20 @@
         <ul>
           <li>Char: representa um único caractere, como uma letra ou um símbolo. <br> Exemplos: 'a', '!', '#'.</li>
           <li>String: representa uma sequência de caracteres. <br> Exemplos: "Olá, mundo!", "Python é uma linguagem de programação".</li>
-          <li>Inteiro: representam valores inteiros, positivos ou negativos, sem casas decimais. <br> Exemplos: 0, 1, -5, 10.</li>
-          <li>Float: representam valores com casas decimais, positivos ou negativos. <br> Exemplos: 1.5, 3.14159, -0.5.</li>
+          <li>inteiros
+            <ul>
+              <li>Byte</li>
+              <li>Short</li>
+              <li>Int</li>
+              <li>Long</li>
+            </ul>
+          </li>
+          <li>Ponto Flutuante
+            <ul>
+              <li>Float: representam valores com casas decimais, positivos ou negativos. <br> Exemplos: 1.5, 3.14159, -0.5.</li>
+              <li>Double</li>
+            </ul>
+          </li>
           <li>Boolean: representam um valor lógico, verdadeiro ou falso. <br> Exemplos: True (verdadeiro), False (falso).</li>
           <li>Array: representam uma coleção ordenada de valores, que podem ser de diferentes tipos. <br> Exemplos: [1, 2, 3], ["maçã", "banana", "laranja"].</li>
         </ul>
