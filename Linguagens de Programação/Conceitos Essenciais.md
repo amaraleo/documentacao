@@ -183,12 +183,13 @@
   <section id="Sistema de Tipos">
     <article>
       <h2>Sistema de Tipos</h2>
-      <p></p>
+      <p>O sistema de tipos é uma característica importante das linguagens de programação que define as regras para a manipulação e conversão de valores em tempo de execução. O sistema de tipos define os tipos de dados que uma linguagem de programação suporta, como números, strings, booleanos, etc., bem como as operações permitidas entre esses tipos.</p>
+      <p>Existem dois tipos de sistemas de tipos: estático e dinâmico. Em um sistema de tipos estático, os tipos de dados são verificados em tempo de compilação, antes do código ser executado. Já em um sistema de tipos dinâmico, a verificação é feita em tempo de execução, conforme o código é executado.</p>
       <article>
         <h3>Tipos de Dados</h3>
         <ul>
-          <li>Char: representa um único caractere, como uma letra ou um símbolo. <br> Exemplo: 'a', '!', '#'.</li>
-          <li>String: representa uma sequência de caracteres. <br> Exemplo: "Olá, mundo!", "Python é uma linguagem de programação".</li>
+          <li>Char: representa um único caractere, como uma letra ou um símbolo. <br> Exemplos: 'a', '!', '#'.</li>
+          <li>String: representa uma sequência de caracteres. <br> Exemplos: "Olá, mundo!", "Python é uma linguagem de programação".</li>
           <li>Inteiro: representam valores inteiros, positivos ou negativos, sem casas decimais. <br> Exemplos: 0, 1, -5, 10.</li>
           <li>Float: representam valores com casas decimais, positivos ou negativos. <br> Exemplos: 1.5, 3.14159, -0.5.</li>
           <li>Boolean: representam um valor lógico, verdadeiro ou falso. <br> Exemplos: True (verdadeiro), False (falso).</li>
