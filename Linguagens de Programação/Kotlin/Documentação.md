@@ -3,7 +3,6 @@
   <nav>
     <ul>
       <li><a href="#História e Evolução">História e Evolução</a></li>
-
       <li><a href="#Sintaxe e Semântica">Sintaxe e Semântica</a></li>
       <li><a href="#Palavras Reservadas">Palavras Reservadas</a></li>
       <li><a href="#Interpretador e Compilador">Interpretador e Compilador</a></li>
@@ -18,7 +17,6 @@
       <li><a href="#Estruturas de Dados">Estruturas de Dados</a></li>
       <li><a href="#Funções">Funções</a></li>
       <li><a href="#Paradigmas de Programação">Paradigmas de Programação</a></li>
-
       <li><a href="#Classes">Classes</a></li>
       <li><a href="#Objetos">Objetos</a></li>
       <li><a href="#Programação Orientada a Objetos">Programação Orientada a Objetos</a></li>
@@ -31,7 +29,6 @@
       <li><a href="#Testes">Testes</a></li>
       <li><a href="#Frameworks">Frameworks</a></li>
       <li><a href="#Bibliotecas">Bibliotecas</a></li>
-
       <li><a href="#Linguagens de Programação e Seus Usos">Usos</a></li>
       <li><a href="#Plataformas Suportadas">Plataformas Suportadas</a></li>
       <li><a href="#Sites Para Aprofundamento">Sites Para Aprofundamento</a></li>
