@@ -8,7 +8,6 @@
       <li><a href="#Interpretador e Compilador">Interpretador e Compilador</a></li>
       <li><a href="#Ambiente de Desenvolvimento">Ambiente de Desenvolvimento</a></li>
       <li><a href="#Comentários">Comentários</a></li>
-      <li><a href="#Escopo">Escopo</a></li>
       <li><a href="#Variáveis">Variáveis</a></li>
       <li><a href="#Sistema de Tipos">Sistema de Tipos</a></li>
       <li><a href="#Caracteres de Escape">Caracteres de Escape</a></li>
@@ -40,10 +39,20 @@
   <section id="Comentários">
     <article>
       <h2>Comentários</h2>
-      <p>Há duas formas de se comentar na linguagem Kotlin:</p>
+      <p>Em Kotlin, há dois tipos de comentários:</p>
       <ul>
-        <li>Em linha: // comentário</li>
-        <li>Multi-linha: /* comentário <br> em <br> linhas */</li>
+        <li>Em linha, utilizando: //</li>
+        <li>Multi-linha, utilizando /* */</li>
+      </ul>
+    </article>
+  </section>
+  <section id="Variáveis">
+    <article>
+      <h2>Variáveis</h2>
+      <p>Em Kotlin, há duas palavras reservadas utilizadas para declarar uma variável: var & val. A diferença entre elas é simples:</p>
+      <ul>
+        <li>var: define uma variável mutável</li>
+        <li>val: define uma variável imutável</li>
       </ul>
     </article>
   </section>
