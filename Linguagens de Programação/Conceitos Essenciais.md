@@ -496,7 +496,11 @@
     </article>
   </section>
   <br>
+  <br>
+  <br>
   <section>
+    <p>Obrigado a todos por terem lido este material e compartilhado.</p>
+    <br>
     <p>Este material foi recriado tendo auxílio do ChatGPT da OpenAI.</p>
     <p>Última modificação: 23/04/2023</p>
   </section>
