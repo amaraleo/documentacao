@@ -176,13 +176,25 @@
   <section id="Variáveis">
     <article>
       <h2>Variáveis</h2>
-      <p></p>
+      <p>Variáveis são elementos fundamentais em programação e se referem a um espaço de memória reservado para armazenar um valor. Elas podem ser consideradas como "caixas" que contêm dados e podem ser acessadas e modificadas durante a execução de um programa.</p>
+      <p>As variáveis são identificadas por um nome que deve seguir algumas regras, como começar com uma letra ou underscore, não conter caracteres especiais, dentre outras. O valor armazenado em uma variável pode ser de diferentes tipos, como números, texto, booleanos, objetos, etc.</p>
     </article>
   </section>
   <section id="Sistema de Tipos">
     <article>
       <h2>Sistema de Tipos</h2>
       <p></p>
+      <article>
+        <h3>Tipos de Dados</h3>
+        <ul>
+          <li>Char: representa um único caractere, como uma letra ou um símbolo. <br> Exemplo: 'a', '!', '#'.</li>
+          <li>String: representa uma sequência de caracteres. <br> Exemplo: "Olá, mundo!", "Python é uma linguagem de programação".</li>
+          <li>Inteiro: representam valores inteiros, positivos ou negativos, sem casas decimais. <br> Exemplos: 0, 1, -5, 10.</li>
+          <li>Float: representam valores com casas decimais, positivos ou negativos. <br> Exemplos: 1.5, 3.14159, -0.5.</li>
+          <li>Boolean: representam um valor lógico, verdadeiro ou falso. <br> Exemplos: True (verdadeiro), False (falso).</li>
+          <li>Array: representam uma coleção ordenada de valores, que podem ser de diferentes tipos. <br> Exemplos: [1, 2, 3], ["maçã", "banana", "laranja"].</li>
+        </ul>
+      </article>
     </article>
   </section>
   <section id="Caracteres e Sequências de Escape">
