@@ -69,18 +69,18 @@
         <ul>
           <li>Char: representa um único caractere, como uma letra ou um símbolo. <br> Exemplos: 'a', '!', '#'.</li>
           <li>String: representa uma sequência de caracteres. <br> Exemplos: "Olá, mundo!", "Python é uma linguagem de programação".</li>
-          <li>inteiros
+          <li>Inteiros
             <ul>
-              <li>Byte</li>
-              <li>Short</li>
-              <li>Int</li>
-              <li>Long</li>
+              <li>Byte: representa um inteiro de 8 bits, com um valor mínimo de -128 e um valor máximo de 127.</li>
+              <li>Short: representa um inteiro de 16 bits, com um valor mínimo de -32.768 e um valor máximo de 32.767.</li>
+              <li>Int: representa um inteiro de 32 bits, com um valor mínimo de -2.147.483.648 e um valor máximo de 2.147.483.647.</li>
+              <li>Long: representa um inteiro de 64 bits, com um valor mínimo de -9.223.372.036.854.775.808 e um valor máximo de 9.223.372.036.854.775.807.</li>
             </ul>
           </li>
           <li>Ponto Flutuante
             <ul>
-              <li>Float: representam valores com casas decimais, positivos ou negativos. <br> Exemplos: 1.5, 3.14159, -0.5.</li>
-              <li>Double</li>
+              <li>Float: representa um número de ponto flutuante de 32 bits, com valores na faixa de +/- 3.40282347 x 10^38 e precisão de cerca de 7 dígitos decimais.</li>
+              <li>Double: representa um número de ponto flutuante de 64 bits, com valores na faixa de +/- 1.79769313486231570 x 10^308 e precisão de cerca de 15 dígitos decimais.</li>
             </ul>
           </li>
           <li>Boolean: representam um valor lógico, verdadeiro ou falso. <br> Exemplos: True (verdadeiro), False (falso).</li>
