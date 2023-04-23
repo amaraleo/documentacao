@@ -16,11 +16,10 @@
       <li><a href="#Escopo">Escopo</a></li>
       <li><a href="#Variáveis">Variáveis</a></li>
       <li><a href="#Sistema de Tipos">Sistema de Tipos</a></li>
-      <li><a href="#Caracteres e Sequências de Escape">Caracteres e Sequências de Escape</a></li>
-      <li><a href="#Entrada e Saída de Dados">Entrada e Saída de Dados</a></li>
+      <li><a href="#Caracteres de Escape">Caracteres de Escape</a></li>
       <li><a href="#Operadores">Operadores</a></li>
       <li><a href="#Estruturas de Controle">Estruturas de Controle</a></li>
-      <li><a href="#Funções e Parâmetros">Funções e Parâmetros</a></li>
+      <li><a href="#Funções">Funções</a></li>
       <li><a href="#Estruturas de Dados">Estruturas de Dados</a></li>
       <li><a href="#Paradigmas de Programação">Paradigmas de Programação</a></li>
       <li><a href="#Classes">Classes</a></li>
@@ -188,14 +187,15 @@
   </section>
   <section id="Caracteres e Sequências de Escape">
     <article>
-      <h2>Caracteres e Sequências de Escape</h2>
-      <p></p>
-    </article>
-  </section>
-  <section id="Entrada e Saída de Dados">
-    <article>
-      <h2>Entrada e Saída de Dados</h2>
-      <p></p>
+      <h2>Caracteres de Escape</h2>
+      <p>Os caracteres de escape são usados em programação para representar caracteres especiais ou caracteres que não podem ser digitados diretamente no código fonte. Eles são formados pelo caractere de barra invertida "\" seguido de outro caractere.</p>
+      <ul>
+        <li>\\: barra</li>
+        <li>\n: quebra de linha</li>
+        <li>\t: tabulação</li>
+        <li>\": aspas duplas</li>
+        <li>\': aspas simples</li>
+      </ul>
     </article>
   </section>
   <section id="Operadores">
@@ -295,10 +295,11 @@
       </article>
     </article>
   </section>
-  <section id="Funções e Parâmetros">
+  <section id="Funções">
     <article>
-      <h2>Funções e Parâmetros</h2>
-      <p></p>
+      <h2>Funções</h2>
+      <p>Uma função é um bloco de código nomeado que realiza uma tarefa específica quando chamado. As funções ajudam a organizar e modularizar o código, tornando-o mais fácil de ler, entender e reutilizar.</p>
+      <p>As funções geralmente aceitam um ou mais parâmetros como entrada, realizam uma série de instruções ou operações com esses parâmetros e retornam um resultado. O resultado retornado pode ser utilizado em outras partes do programa ou simplesmente impresso na tela.</p>
     </article>
   </section>
   <section id="Estruturas de Dados">
