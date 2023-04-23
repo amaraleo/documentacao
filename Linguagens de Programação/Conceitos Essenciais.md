@@ -18,8 +18,7 @@
       <li><a href="#Caracteres e Sequências de Escape">Caracteres e Sequências de Escape</a></li>
       <li><a href="#Entrada e Saída de Dados">Entrada e Saída de Dados</a></li>
       <li><a href="#Operadores">Operadores</a></li>
-      <li><a href="#Estruturas de Condição">Estruturas de Condição</a></li>
-      <li><a href="#Estruturas de Repetição">Estruturas de Repetição</a></li>
+      <li><a href="#Estruturas de Controle">Estruturas de Controle</a></li>
       <li><a href="#Funções e Parâmetros">Funções e Parâmetros</a></li>
       <li><a href="#Estruturas de Dados">Estruturas de Dados</a></li>
       <li><a href="#Paradigmas de Programação">Paradigmas de Programação</a></li>
@@ -151,16 +150,30 @@
       <p></p>
     </article>
   </section>
-  <section id="Estruturas de Condição">
+  <section id="Estruturas de Controle">
     <article>
-      <h2>Estruturas de Condição</h2>
-      <p></p>
-    </article>
-  </section>
-  <section id="Estruturas de Repetição">
-    <article>
-      <h2>Estruturas de Repetição</h2>
-      <p></p>
+      <h2>Estruturas de Controle</h2>
+      <p>Estruturas de Controle são um conjunto de comandos ou instruções disponíveis em linguagens de programação que permitem que o programador controle o fluxo de execução do programa.</p>
+      <article>
+        <h3>Estruturas de Condição</h3>
+        <p></p>
+
+        <article>
+          <h4>Operador Ternário</h4>
+          <p>O operador ternário é uma estrutura de condição compacta utilizada em muitas linguagens de programação. Ele é frequentemente utilizado para simplificar expressões condicionais que envolvem apenas uma única instrução "if-else".</p>
+          <p>O operador ternário é composto por três partes: uma expressão booleana (condição), um valor a ser retornado se a condição for verdadeira e outro valor a ser retornado se a condição for falsa. A sintaxe geral é:</p>
+          <p>(condição) ? valorSeVerdadeiro : valorSeFalso</p>
+        </article>
+      </article>
+      <article>
+        <h3>Estruturas de Seleção</h3>
+        <p></p>
+      </article>
+      <article>
+        <h3>Estruturas de Repetição</h3>
+        <p>As estruturas de repetição, também conhecidas como estruturas de loop, são construções da programação que permitem executar um conjunto de instruções repetidas vezes, enquanto uma determinada condição ou expressão booleana for verdadeira.</p>
+        <p>Existem três tipos principais de estruturas de repetição: o "while", o "do-while" e o "for". O "while" é utilizado quando se deseja executar um bloco de código enquanto uma condição for verdadeira. O "do-while" é semelhante ao "while", mas garante que o bloco de código seja executado pelo menos uma vez, mesmo que a condição seja falsa inicialmente. O "for" é utilizado quando se sabe o número de vezes que o bloco de código deve ser executado.</p>
+      </article>
     </article>
   </section>
   <section id="Funções e Parâmetros">
@@ -266,7 +279,7 @@
       </article>
       <article>
         <h3>Polimorfismo</h3>
-        <p>O construtor é um método especial em uma classe que é executado automaticamente quando um objeto é criado a partir dessa classe. O objetivo do construtor é inicializar os atributos do objeto com valores específicos ou realizar outras ações necessárias quando um objeto é criado.</p>
+        <p>Polimorfismo é um conceito da programação orientada a objetos que permite que objetos de diferentes classes sejam tratados como se fossem do mesmo tipo, desde que esses objetos possuam métodos ou atributos com o mesmo nome e comportamento semelhante.</p>
       </article>
     </article>
   </section>
