@@ -11,6 +11,7 @@
       <li><a href="#Código-fonte">Código-fonte</a></li>
       <li><a href="#Interpretador e Compilador">Interpretador e Compilador</a></li>
       <li><a href="#Depurador">Depurador</a></li>
+      <li><a href="#Ambiente de Desenvolvimento">Ambiente de Desenvolvimento</a></li>
       <li><a href="#Comentários">Comentários</a></li>
       <li><a href="#Escopo">Escopo</a></li>
       <li><a href="#Variáveis">Variáveis</a></li>
@@ -105,6 +106,50 @@
       <p>O depurador é um programa que auxilia no processo de depuração de um código-fonte, ou seja, na identificação e correção de erros (bugs) no código. Ele permite que o programador execute o código linha por linha, ou em blocos de código, e observe como as variáveis e instruções são processadas pelo computador em tempo de execução.</p>
       <p>Além de verificar a sintaxe do código-fonte, o depurador também permite que o programador inspecione o valor das variáveis ​​e identifique os possíveis pontos de falha. Ele pode ser usado para testar diferentes cenários e entender como o programa se comporta em diferentes situações.</p>
       <p>O depurador é uma ferramenta valiosa para a programação, pois ajuda a identificar e corrigir erros no código-fonte de forma eficiente e sistemática, economizando tempo e esforço do programador. Ele pode ser usado em conjunto com o compilador ou o interpretador para depurar o código-fonte antes ou depois da compilação.</p>
+    </article>
+  </section>
+  <section id="Ambiente de Desenvolvimento">
+    <article>
+      <h2>Ambiente de Desenvolvimento</h2>
+      <p>Um ambiente de desenvolvimento é um conjunto de ferramentas e recursos que permitem aos programadores criar, testar e depurar software. Ele é composto por um editor de código, compilador, depurador, bibliotecas, frameworks e outras ferramentas relacionadas ao desenvolvimento de software.</p>
+      <p>O objetivo principal de um ambiente de desenvolvimento é fornecer um ambiente de trabalho completo e integrado, que facilite a codificação e a manutenção de programas, aumentando a produtividade e melhorando a qualidade do código produzido.</p>
+      <p>Além disso, um ambiente de desenvolvimento também pode incluir recursos como controle de versão, gerenciamento de projetos, documentação e colaboração em equipe, permitindo que os desenvolvedores trabalhem juntos de forma mais eficiente e coordenada</p>
+      <article>
+        <h3>Visual Studio</h3>
+        <p>Visual Studio é um ambiente de desenvolvimento integrado (IDE) utilizado principalmente para desenvolvimento de aplicativos Windows, aplicativos da Web e aplicativos móveis. Suporta várias linguagens de programação, incluindo C#, C++, F#, Python, entre outras.</p>
+      </article>
+      <article>
+        <h3>Eclipse</h3>
+        <p>Eclipse é uma IDE de código aberto usado para desenvolvimento de software em várias linguagens, incluindo Java, C++, PHP, Python, entre outras. É amplamente utilizado para desenvolvimento de aplicativos móveis e para desenvolvimento de aplicativos da Web.</p>
+      </article>
+      <article>
+        <h3>NetBeans</h3>
+        <p>NetBeans é uma IDE de código aberto usado principalmente para desenvolvimento em Java. Ele inclui ferramentas para desenvolvimento de aplicativos da Web, aplicativos desktop e aplicativos móveis.</p>
+      </article>
+      <article>
+        <h3>XCode</h3>
+        <p>XCode é uma IDE usado para desenvolvimento de aplicativos iOS e macOS. Ele suporta várias linguagens de programação, incluindo Objective-C, Swift e C++.</p>
+      </article>
+      <article>
+        <h3>Android Studio</h3>
+        <p>Android Studio é uma IDE usado para desenvolvimento de aplicativos Android. Ele suporta várias linguagens de programação, incluindo Java e Kotlin.</p>
+      </article>
+      <article>
+        <h3>PyCharm</h3>
+        <p>PyCharm é uma IDE usado para desenvolvimento em Python. Ele suporta vários frameworks de desenvolvimento em Python, incluindo Django e Flask.</p>
+      </article>
+      <article>
+        <h3>Visual Studio Code</h3>
+        <p>Visual Studio Code é um editor de código de código aberto que suporta várias linguagens de programação. É usado principalmente para desenvolvimento da Web, mas também pode ser usado para desenvolvimento de aplicativos desktop e aplicativos móveis.</p>
+      </article>
+      <article>
+        <h3>IntelliJ IDEA</h3>
+        <p>IntelliJ IDEA é uma IDE usado principalmente para desenvolvimento em Java, mas também suporta várias outras linguagens de programação, incluindo Kotlin, Python, entre outras. Ele inclui ferramentas para desenvolvimento de aplicativos da Web, aplicativos desktop e aplicativos móveis.</p>
+      </article>
+      <article>
+        <h3>Sublime Text</h3>
+        <p>Sublime Text é um editor de texto que suporta várias linguagens de programação. É usado principalmente para desenvolvimento da Web, mas também pode ser usado para desenvolvimento de aplicativos desktop e aplicativos móveis.</p>
+      </article>
     </article>
   </section>
   <section id="Comentários">
