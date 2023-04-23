@@ -59,14 +59,10 @@
   <section id="Sistema de Tipos">
     <article>
       <h2>Sistema de Tipos</h2>
-      <p>O sistema de tipos é uma característica importante das linguagens de programação que define as regras para a manipulação e conversão de valores em tempo de execução. O sistema de tipos define os tipos de dados que uma linguagem de programação suporta, como números, strings, booleanos, etc., bem como as operações permitidas entre esses tipos.</p>
-      <p>Existem dois tipos de sistemas de tipos: estático e dinâmico. Em um sistema de tipos estático, os tipos de dados são verificados em tempo de compilação, antes do código ser executado. Já em um sistema de tipos dinâmico, a verificação é feita em tempo de execução, conforme o código é executado.</p>
-      <article>
-        <h3>Tipagem</h3>
-        <ul>
-          <li></li>
-        </ul>
-      </article>
+      <ul>
+        <li>estácio: no sistema estático a verificação de tipos ocorre no tempo de compilação, antes da execução do código</li>
+        <li>forte: na tipagem forte, não é possível realizar a conversão de um tipo em outro, impossibilitando que uma variável já declarada receba um valor de tipo diferente</li>
+      </ul>
       <article>
         <h3>Tipos de Dados</h3>
         <ul>
