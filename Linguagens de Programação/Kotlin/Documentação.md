@@ -64,27 +64,88 @@
   <section id="Palavras Reservadas">
     <article>
       <h2>Palavras Reservadas</h2>
-      <article>
-        <h3>Variáveis</h3>
-        <ul>
-          <li>val: declaração de uma variável de valor imutável</li>
-          <li>var: declaração de uma variável mutável</li>
-        </ul>
-      </article>
-      <article>
-        <h3>Estruturas de Condição</h3>
-        <ul>
-          <li>if: condicional se</li>
-          <li>else: condicional senão</li>
-          <li>else if: condicional senão se</li>
-        </ul>
-      </article>
-      <article>
-        <h3>Estruturas de Repetição</h3>
-        <ul>
-          <li></li>
-        </ul>
-      </article>
+      <ul>
+        <li>abstract</li>
+        <li>actual</li>
+        <li>annotation</li>
+        <li>as</li>
+        <li>break</li>
+        <li>by</li>
+        <li>catch</li>
+        <li>class</li>
+        <li>companion</li>
+        <li>const</li>
+        <li>constructor</li>
+        <li>continue</li>
+        <li>crossinline</li>
+        <li>data</li>
+        <li>delegate</li>
+        <li>do</li>
+        <li>dynamic</li>
+        <li>else</li>
+        <li>enum</li>
+        <li>expect</li>
+        <li>external</li>
+        <li>field</li>
+        <li>file</li>
+        <li>final</li>
+        <li>finally</li>
+        <li>for</li>
+        <li>fun</li>
+        <li>get</li>
+        <li>if</li>
+        <li>import</li>
+        <li>in</li>
+        <li>infix</li>
+        <li>init</li>
+        <li>inline</li>
+        <li>inner</li>
+        <li>interface</li>
+        <li>internal</li>
+        <li>is</li>
+        <li>it</li>
+        <li>lateinit</li>
+        <li>link</li>
+        <li>local</li>
+        <li>loop</li>
+        <li>modifers</li>
+        <li>module</li>
+        <li>native</li>
+        <li>new</li>
+        <li>noinline</li>
+        <li>non-local</li>
+        <li>null</li>
+        <li>object</li>
+        <li>operator</li>
+        <li>option</li>
+        <li>override</li>
+        <li>package</li>
+        <li>param</li>
+        <li>private</li>
+        <li>property</li>
+        <li>protected</li>
+        <li>public</li>
+        <li>receiver</li>
+        <li>reified</li>
+        <li>repeat</li>
+        <li>return</li>
+        <li>sealed</li>
+        <li>set</li>
+        <li>setparam</li>
+        <li>suspend</li>
+        <li>tailrec</li>
+        <li>this</li>
+        <li>throw</li>
+        <li>try</li>
+        <li>typealias</li>
+        <li>typeof</li>
+        <li>val</li>
+        <li>var</li>
+        <li>when</li>
+        <li>where</li>
+        <li>while</li>
+        <li>yield</li>
+      </ul>
     </article>
   </section>
   <section id="">
