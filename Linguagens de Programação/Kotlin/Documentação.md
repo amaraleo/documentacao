@@ -148,18 +148,6 @@
       </ul>
     </article>
   </section>
-  <section id="">
-    <article>
-      <h2></h2>
-      <p></p>
-    </article>
-  </section>
-  <section id="">
-    <article>
-      <h2></h2>
-      <p></p>
-    </article>
-  </section>
   <section id="Comentários">
     <article>
       <h2>Comentários</h2>
@@ -173,6 +161,9 @@
   <section id="Variáveis">
     <article>
       <h2>Variáveis</h2>
+      <p>Variáveis são elementos fundamentais em programação e se referem a um espaço de memória reservado para armazenar um valor. Elas podem ser consideradas como "caixas" que contêm dados e podem ser acessadas e modificadas durante a execução de um programa.</p>
+      <p>As variáveis são identificadas por um nome que deve seguir algumas regras, como começar com uma letra ou underscore, não conter caracteres especiais, dentre outras. O valor armazenado em uma variável pode ser de diferentes tipos, como números, texto, booleanos, objetos, etc.</p>
+      <br>
       <p>Em Kotlin, há duas palavras reservadas utilizadas para declarar uma variável: var & val. A diferença entre elas é simples:</p>
       <ul>
         <li>var: define uma variável mutável</li>
@@ -183,6 +174,9 @@
   <section id="Sistema de Tipos">
     <article>
       <h2>Sistema de Tipos</h2>
+      <p>O sistema de tipos é uma característica importante das linguagens de programação que define as regras para a manipulação e conversão de valores em tempo de execução. O sistema de tipos define os tipos de dados que uma linguagem de programação suporta, como números, strings, booleanos, etc., bem como as operações permitidas entre esses tipos.</p>
+      <p>Existem dois tipos de sistemas de tipos: estático e dinâmico. Em um sistema de tipos estático, os tipos de dados são verificados em tempo de compilação, antes do código ser executado. Já em um sistema de tipos dinâmico, a verificação é feita em tempo de execução, conforme o código é executado.</p>
+      <br>
       <p>Em Kotlin, o sistema de tipos é estático, onde a verificação de tipos ocorre somente em tempo de compilação, antes da execução do código.</p>
       <article>
         <h3>Tipagem</h3>
@@ -211,6 +205,36 @@
           <li>Array: representa uma coleção ordenada de valores, que podem ser de diferentes tipos. <br> Exemplos: [1, 2, 3], ["maçã", "banana", "laranja"].</li>
         </ul>
       </article>
+    </article>
+  </section>
+  <section id="Caracteres de Escape">
+    <article>
+      <h2>Caracteres de Escape</h2>
+      <p></p>
+    </article>
+  </section>
+  <section id="Operadores">
+    <article>
+      <h2>Operadores</h2>
+      <p></p>
+    </article>
+  </section>
+  <section id="Estruturas de Controle">
+    <article>
+      <h2>Estruturas de Controle</h2>
+      <p></p>
+    </article>
+  </section>
+  <section id="Estruturas de Dados">
+    <article>
+      <h2>Estruturas de Dados</h2>
+      <p></p>
+    </article>
+  </section>
+  <section id="Funções">
+    <article>
+      <h2>Funções</h2>
+      <p></p>
     </article>
   </section>
 </main>
