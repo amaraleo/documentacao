@@ -25,6 +25,7 @@
       <li><a href="#Encapsulamento">Encapsulamento</a></li>
       <li><a href="#Herança">Herança</a></li>
       <li><a href="#Polimorfismo">Polimorfismo</a></li>
+      <li><a href="#Tratamento de Erros e Exceções">Tratamento de Erros e Exceções</a></li>
       <li><a href="#Testes">Testes</a></li>
       <li><a href="#Frameworks">Frameworks</a></li>
       <li><a href="#Bibliotecas">Bibliotecas</a></li>
@@ -36,6 +37,68 @@
 </header>
 
 <main>
+  <section id="História e Evolução">
+    <article>
+      <h2></h2>
+      <p>Kotlin é uma linguagem de programação moderna de código aberto que foi desenvolvida pela JetBrains em 2011. O objetivo principal era fornecer uma alternativa mais concisa, segura e interoperável para o desenvolvimento de aplicativos para a plataforma Java.</p>
+      <p>A ideia de criar uma nova linguagem surgiu quando a JetBrains, a empresa responsável pela criação do ambiente de desenvolvimento IntelliJ IDEA, começou a enfrentar dificuldades com o desenvolvimento de seu próprio software. A equipe percebeu que a linguagem Java, embora poderosa e popular, tinha limitações que impediam o desenvolvimento eficiente e seguro de software.</p>
+      <p>Kotlin foi projetada para abordar esses problemas, fornecendo uma sintaxe concisa e expressiva, recursos de segurança de tipo, interoperabilidade sem atrito com código Java existente e um ambiente de tempo de execução moderno e eficiente.</p>
+      <p>Em 2017, a JetBrains entregou o controle do Kotlin para a comunidade Open Source através da Kotlin Foundation, que é uma organização independente e sem fins lucrativos que visa apoiar o desenvolvimento e a adoção do Kotlin em todo o mundo.</p>
+      <p>Desde então, a linguagem tem ganhado cada vez mais popularidade e adoção, sendo utilizada por empresas como Google, Netflix, Uber e Atlassian em seus projetos de desenvolvimento de software. Em 2019, a Google anunciou o suporte oficial ao Kotlin para o desenvolvimento de aplicativos Android, o que impulsionou ainda mais o crescimento e a adoção da linguagem.</p>
+    </article>
+  </section>
+  <section id="Sintaxe e Semântica">
+    <article>
+      <h2>Sintaxe e Semântica</h2>
+      <p></p>
+      <ul>
+        <li>Ausência de ponto e vírgula: Kotlin não requer o uso de ponto e vírgula para separar instruções individuais</li>
+        <li>Inferência de tipo: Kotlin é capaz de inferir automaticamente o tipo de uma variável com base no valor atribuído a ela</li>
+        <li>Expressões lambda: Kotlin suporta expressões lambda</li>
+        <li>Nullable types: em Kotlin, todas as variáveis são por padrão não nulas.</li>
+        <li>Orientação a objetos: Kotlin é uma linguagem de programação orientada a objetos</li>
+        <li>Interoperabilidade: Kotlin foi projetado para ser interoperável com outras linguagens de programação, como Java.</li>
+      </ul>
+    </article>
+  </section>
+  <section id="Palavras Reservadas">
+    <article>
+      <h2>Palavras Reservadas</h2>
+      <article>
+        <h3>Variáveis</h3>
+        <ul>
+          <li>val: declaração de uma variável de valor imutável</li>
+          <li>var: declaração de uma variável mutável</li>
+        </ul>
+      </article>
+      <article>
+        <h3>Estruturas de Condição</h3>
+        <ul>
+          <li>if: condicional se</li>
+          <li>else: condicional senão</li>
+          <li>else if: condicional senão se</li>
+        </ul>
+      </article>
+      <article>
+        <h3>Estruturas de Repetição</h3>
+        <ul>
+          <li></li>
+        </ul>
+      </article>
+    </article>
+  </section>
+  <section id="">
+    <article>
+      <h2></h2>
+      <p></p>
+    </article>
+  </section>
+  <section id="">
+    <article>
+      <h2></h2>
+      <p></p>
+    </article>
+  </section>
   <section id="Comentários">
     <article>
       <h2>Comentários</h2>
@@ -83,8 +146,8 @@
               <li>Double: representa um número de ponto flutuante de 64 bits, com valores na faixa de +/- 1.79769313486231570 x 10^308 e precisão de cerca de 15 dígitos decimais.</li>
             </ul>
           </li>
-          <li>Boolean: representam um valor lógico, verdadeiro ou falso. <br> Exemplos: True (verdadeiro), False (falso).</li>
-          <li>Array: representam uma coleção ordenada de valores, que podem ser de diferentes tipos. <br> Exemplos: [1, 2, 3], ["maçã", "banana", "laranja"].</li>
+          <li>Boolean: representa um valor lógico, verdadeiro ou falso. <br> Exemplos: True (verdadeiro), False (falso).</li>
+          <li>Array: representa uma coleção ordenada de valores, que podem ser de diferentes tipos. <br> Exemplos: [1, 2, 3], ["maçã", "banana", "laranja"].</li>
         </ul>
       </article>
     </article>

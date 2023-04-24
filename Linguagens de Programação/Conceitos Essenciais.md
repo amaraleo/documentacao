@@ -31,6 +31,7 @@
       <li><a href="#Encapsulamento">Encapsulamento</a></li>
       <li><a href="#Herança">Herança</a></li>
       <li><a href="#Polimorfismo">Polimorfismo</a></li>
+      <li><a href="#Tratamento de Erros e Exceções">Tratamento de Erros e Exceções</a></li>
       <li><a href="#Testes">Testes</a></li>
       <li><a href="#Frameworks">Frameworks</a></li>
       <li><a href="#Bibliotecas">Bibliotecas</a></li>
@@ -197,10 +198,10 @@
         <ul>
           <li>Char: representa um único caractere, como uma letra ou um símbolo. <br> Exemplos: 'a', '!', '#'.</li>
           <li>String: representa uma sequência de caracteres. <br> Exemplos: "Olá, mundo!", "Python é uma linguagem de programação".</li>
-          <li>Inteiro: representam valores inteiros, positivos ou negativos, sem casas decimais. <br> Exemplos: 0, 1, -5, 10.</li>
-          <li>Float: representam valores com casas decimais, positivos ou negativos. <br> Exemplos: 1.5, 3.14159, -0.5.</li>
-          <li>Boolean: representam um valor lógico, verdadeiro ou falso. <br> Exemplos: True (verdadeiro), False (falso).</li>
-          <li>Array: representam uma coleção ordenada de valores, que podem ser de diferentes tipos. <br> Exemplos: [1, 2, 3], ["maçã", "banana", "laranja"].</li>
+          <li>Inteiro: representa um valor inteiro, positivo ou negativo, sem casas decimais. <br> Exemplos: 0, 1, -5, 10.</li>
+          <li>Float: representa um valor com casas decimais, positivos ou negativos. <br> Exemplos: 1.5, 3.14159, -0.5.</li>
+          <li>Boolean: representa um valor lógico, verdadeiro ou falso. <br> Exemplos: True (verdadeiro), False (falso).</li>
+          <li>Array: representa uma coleção ordenada de valores, que podem ser de diferentes tipos. <br> Exemplos: [1, 2, 3], ["maçã", "banana", "laranja"].</li>
         </ul>
       </article>
     </article>
@@ -421,6 +422,12 @@
         <h3>Polimorfismo</h3>
         <p>Polimorfismo é um conceito da programação orientada a objetos que permite que objetos de diferentes classes sejam tratados como se fossem do mesmo tipo, desde que esses objetos possuam métodos ou atributos com o mesmo nome e comportamento semelhante.</p>
       </article>
+    </article>
+  </section>
+  <section id="Tratamento de Erros e Exceções">
+    <article>
+      <h2>Tratamento de Erros e Exceções</h2>
+      <p></p>
     </article>
   </section>
   <section id="Testes">
